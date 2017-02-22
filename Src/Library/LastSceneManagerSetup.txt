@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Version 1.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/GUI__victor.unity
+  isLoaded: 1
+  isActive: 0
