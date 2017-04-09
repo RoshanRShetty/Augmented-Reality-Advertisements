@@ -3,7 +3,7 @@
 
 Please click to watch the overview video.
 
-[![ScreenShot](https://github.com/RoshanRShetty/Augmented-Reality-Advertisements/blob/master/snapshot.PNG](https://github.com/RoshanRShetty/Augmented-Reality-Advertisements/blob/master/AR%20Demo.mp4)
+[![ScreenShot](https://github.com/RoshanRShetty/Augmented-Reality-Advertisements/blob/master/snapshot.PNG)](https://raw.githubusercontent.com/RoshanRShetty/Augmented-Reality-Advertisements/master/AR%20Demo.mp4)
 
 **Visualization Link:** https://roshanrshetty.github.io/Project1/presentation%20layer/project1.1.html
 
